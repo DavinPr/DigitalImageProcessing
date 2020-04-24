@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_navbar"
+    app:startDestination="@id/navigation_edit">
+
+    <fragment
+        android:id="@+id/navigation_edit"
+        android:label="@string/edit"
+        android:name="com.example.pengolahancitra.views.edit.EditFragment"
+        tools:layout="@layout/fragment_edit"
+        />
+
+    <fragment
+        android:id="@+id/navigation_myphoto"
+        android:label="@string/my_photo"
+        android:name="com.example.pengolahancitra.views.myphoto.MyPhotoFragment"
+        tools:layout="@layout/fragment_my_photo"
+        />
+
+
+</navigation>

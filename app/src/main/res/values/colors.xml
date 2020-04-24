@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#000</color>
+    <color name="charcoal_grey">#353e4a</color>
+    <color name="blue_grey">#8691a1</color>
+    <color name="dull_blue">#4f6da5</color>
+    <color name="white">#ffffff</color>
+    <color name="light_periwinkle">#d9e0e9</color>
+    <color name="light_blue_grey">#bac6d7</color>
+    <color name="light_burgundy">#c43235</color>
+    <color name="ice_blue">#edeff1</color>
+    <color name="tomato">#ee2d2b</color>
+    <color name="black_two">#212121</color>
+    <color name="black">#000000</color>
+    <color name="very_light_blue">#e2e7f2</color>
+    <color name="shamrock_green">#0cbe51</color>
+    <color name="slate_grey">#545f6e</color>
+    <color name="azure">#059ff5</color>
+    <color name="orange">#f96810</color>
+    <color name="light_blue">#8bd9fe</color>
+    <color name="pale_grey">#f8fafc</color>
+    <color name="pale_blue">#e0e6ee</color>
+    <color name="bluey_grey">#98a2b0</color>
+    <color name="butterscotch_24">#3dffc340</color>
+    <color name="very_light_blue_two">#e9edf4</color>
+    <color name="black_0">#29000000</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="turquoise">#08bda8</color>
+    <color name="very_light_blue_two_50">#80e9edf4</color>
+    <color name="dusky_blue">#475993</color>
+</resources>

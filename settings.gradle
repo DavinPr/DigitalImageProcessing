@@ -1,0 +1,2 @@
+rootProject.name='PengolahanCitra'
+include ':app'

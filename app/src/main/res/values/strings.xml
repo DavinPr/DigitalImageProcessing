@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PengolahanCitra</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">Edit</string>
+    <string name="my_photo">My Photo</string>
+    <string name="pcd_cpmk2">PCD CPMK2</string>
+    <string name="gambar_untuk_di_edit">Gambar untuk di edit</string>
+    <string name="brightness">Brightness</string>
+    <string name="home">Home</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="blur">Blur</string>
+    <string name="kernel_3">3x3</string>
+    <string name="kernel_5">5x5</string>
+    <string name="kernel_7">7x7</string>
+    <string name="blur_effects">Blur Effects</string>
+</resources>
